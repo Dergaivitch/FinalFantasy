@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/graphics">
+        <file alias="background.png">graphics/background.png</file>
+        <file alias="mageunit.png">graphics/mageunit.png</file>
+        <file alias="monsterunit.png">graphics/monsterunit.png</file>
+        <file alias="attack.png">graphics/attack.png</file>
+        <file alias="order-button.png">graphics/order-button.png</file>
+    </qresource>
+</RCC>

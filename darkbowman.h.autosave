@@ -1,0 +1,10 @@
+#ifndef DARKBOWMAN_H
+#define DARKBOWMAN_H
+#include "bowman.h"
+
+class DarkBowman: public Bowman
+{
+  public:
+    void isCreated();
+};
+#endif // DARKBOWMAN_H

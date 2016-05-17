@@ -1,0 +1,9 @@
+#include "unitsfactory.h"
+
+class HolyUnitsFactory: public UnitsFactory
+{
+  public:
+       Bowman* createBowman() {
+      return new HolyBowman;
+    }
+};
